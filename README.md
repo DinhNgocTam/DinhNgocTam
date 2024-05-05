@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studing on FPT University Danang Campus
-- 🌱 I’m currently learning Java, C#, React
+- 🌱 I’m currently learning Java, C#, ReactJS
 
 Contact : dinhngoctam.dev@gmail.com
